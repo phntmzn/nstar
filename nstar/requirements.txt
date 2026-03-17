@@ -1,0 +1,2 @@
+torch>=2.3
+midiutil>=1.2.1
